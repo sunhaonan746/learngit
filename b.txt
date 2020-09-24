@@ -1,1 +1,2 @@
 hello word
+这次我更改了b文件
